@@ -1,3 +1,4 @@
+* Quando usi cargo new o cargo init, puoi disabilitare la creazione del repository Git per il singolo progetto con l’opzione --vcs none.
 * rustc = rust compiler
 * convenzione snake anche nome file
 * rustfmt = rust formatter
